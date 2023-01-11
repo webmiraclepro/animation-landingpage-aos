@@ -10,5 +10,7 @@
   .container1 {
     @apply bg-gray-100 rounded-xl;
   }
-  /* ... */
+  .heroBg {
+    background-image: url(assets/img/hero.png)
+  }
 }

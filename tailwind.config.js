@@ -28,10 +28,7 @@ module.exports = {
 
     },
     extend: {
-      colors: {
-        primary: '',
-        secondary: ''
-      }
+    
     },
   },
   plugins: [],
