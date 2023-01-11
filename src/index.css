@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@layer components {
+  .navbar-menu {
+    @apply text-gray-500 font-medium;
+  }
+  .container1 {
+    @apply bg-gray-100 rounded-xl;
+  }
+  /* ... */
+}
